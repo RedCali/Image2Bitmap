@@ -4,7 +4,9 @@
 *.vsp
 *.vs
 /Debug
+/Release
 /*/__vm
 /*/Debug
+/*/Release
 /*/obj
 /*/bin
